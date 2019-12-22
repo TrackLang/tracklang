@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tracklang.com/hockey-101/</loc>
+    <lastmod>2019-12-22T20:49:38+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tracklang.com/</loc>
+    <lastmod>2019-12-22T20:49:38+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tracklang.com/categories/</loc>
   </url>
   
   <url>
     <loc>https://tracklang.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tracklang.com/</loc>
   </url>
   
 </urlset>
