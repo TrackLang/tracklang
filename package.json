@@ -1,0 +1,25 @@
+{
+  "name": "tracklang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hugo": "hugo",
+    "start": "cd tracker && hugo server",
+    "build": "cd tracker && hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pods13/tracklang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pods13/tracklang/issues"
+  },
+  "homepage": "https://github.com/pods13/tracklang#readme",
+  "dependencies": {
+    "hugo-bin": "^0.49.0"
+  }
+}

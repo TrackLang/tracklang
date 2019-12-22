@@ -1,0 +1,3 @@
+[submodule "tracker/themes/cactus"]
+	path = tracker/themes/cactus
+	url = https://github.com/digitalcraftsman/hugo-cactus-theme.git
