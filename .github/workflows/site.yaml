@@ -1,0 +1,32 @@
+name: Publish Site
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Checkout
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.x
+      - name: Fetch Submodules
+        run: |
+          git submodule sync && git submodule update --init
+      - name: Install Dependencies
+        run: npm ci
+      - name: Build Site
+        run: npm run build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v2.4.0
+        with:
+          emptyCommits: false
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./public
