@@ -1,5 +1,0 @@
-baseURL = "https://tracklang.com/"
-languageCode = "en-us"
-title = "TrackLang"
-theme = "cactus"
-publishDir = "../public"
