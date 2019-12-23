@@ -33,4 +33,17 @@ Here are some questions that I came up with by watching the videos above:
 After that I tried to answer those questions using new vocabulary:
 `free substitution` `powerplay` `net` `penalty kill` `man advantage` `puck` `penalty box` `penalty shot` `offside` `icing` `tie` `overtime` `shootout` `stick` `period` `goaltender` `linesman` `neutral zone` `face-off` `cherry-picking`
 
-That's it for now.
+## Hockey Musical Movie
+Well, after grasping major hockey terms and rules, it's time to see ways to use them. And, accidentally, I came accross this musical film:
+{{< youtube QTdv4lAzvHE >}}
+
+If this had happened the other day, I would probably just skip it. But right before that day I had a chat about musical films with a friend of mine. What a coincidence, right? Besides that I don't really a fan of that kinda movies. But I decided to give it a try and at the end I found out that watching such genre of movies is worth it, at least I consider it beneficial for myself.
+
+That said, here are some sentences from the movie that make usage of the hockey vocabulary:
+* Stoped the slapshot with his tonsils.
+* Is that alright(Protective cup)? Unless you are a dickface. 
+* When do you think passing a puck?
+
+And here's [press kit](https://www.federgreenentertainment.com/Score-Press_Kit.pdf) for the movie maybe it will be interested to you as well.
+
+That's it.
