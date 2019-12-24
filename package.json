@@ -6,7 +6,8 @@
   "scripts": {
     "hugo": "hugo",
     "start": "cd tracker && hugo server",
-    "build": "cd tracker && hugo"
+    "build": "cd tracker && hugo",
+    "add": "cd tracker && hugo new "
   },
   "repository": {
     "type": "git",
